@@ -1,0 +1,30 @@
+_repo: Dictionary-of-the-Chinook-Jargon-or-Trade-Language-of-Oregon_15672
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibbs, George
+    birthdate: 1815
+    deathdate: 1873
+    gutenberg_agent_id: '6387'
+    url: http://www.gutenberg.org/2009/agents/6387
+    wikipedia: http://en.wikipedia.org/wiki/George_Gibbs_(geologist)
+description: 'Series: Shea''s Library of American Linguistics, XII'
+gutenberg_bookshelf:
+- Language Education
+- Native America
+gutenberg_issued: '2005-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PM'
+- !lcsh 'Chinook jargon -- Glossaries, vocabularies, etc.'
+title: Dictionary of the Chinook Jargon, or, Trade Language of Oregon
+url: http://www.gutenberg.org/ebooks/15672
